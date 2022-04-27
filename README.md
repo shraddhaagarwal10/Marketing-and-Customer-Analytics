@@ -39,5 +39,4 @@ Section 3: Data Visualization:
 	   Focus on plotting bar plots and pie plots to answer the basic questions related to marketing.  
 Section 4: Segmentation of Customers:
 	   Customers are desegmentated into clusters based on the their personality types and background. Deatiled analysis of clusters based on income of the customers.  
-Section 5: Classification Modelling:
-	   8 classification models are employed and compared their accuracy scores and performace matrices.
+Section 5: Recommendations based on Observations
